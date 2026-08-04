@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>On the unexplored jungle world of Jumala the sole survivor of a spaceship crash is heir to a fortune, or has been made to believe so.</dc:abstract>
+		<meta property="schema:abstract">On the unexplored jungle world of Jumala the sole survivor of a spaceship crash is heir to a fortune, or has been made to believe so.</meta>
 		<dc:description>
 			&lt;p&gt;On the unexplored jungle world of Jumala, former pilot turned safari guide Ras Hume schemes to collect the reward for finding a missing heir to a fortune. A busboy from local dive bar is brainwashed into believing he is the missing heir, but he soon begins to doubt his own memories.&lt;/p&gt;
 			&lt;p&gt;This standalone story was originally published in 1961 as part of a double title paperback by Ace Books along with an abridged version of &lt;i&gt;The Beast Master&lt;/i&gt;, and again in 1968 paired with the short novel &lt;i&gt;Voodoo Planet&lt;/i&gt;, all by &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt;.&lt;/p&gt;
